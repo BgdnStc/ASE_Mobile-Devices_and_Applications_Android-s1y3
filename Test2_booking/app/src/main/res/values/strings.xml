@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">stoica_bogdan_1105_test2_booking</string>
+
+    <string name="btnSave">Save</string>
+    <string name="btnSync">Sync</string>
+    <string name="btnView">View</string>
+    <string name="btnSort">Sort</string>
+
+    <string name="jsonSuccessToast">SUCCESS</string>
+    <string name="jsonErrorToast">FAILURE</string>
+</resources>
